@@ -1,3 +1,11 @@
+# ARCHIVED
+
+This repository is archived, a better, more up to date and -- more importantly -- maintained copy is available here:
+
+<https://github.com/maloep/romcollectionbrowser>
+
+I do not vouch for that code, however, as I haven't audited it.
+
 # Rom Collection Browser - XBMC Game Frontend #
 
 <a href='http://www.youtube.com/watch?feature=player_embedded&v=NRTg3HmIuqU' target='_blank'><img src='http://img.youtube.com/vi/NRTg3HmIuqU/0.jpg' width='425' height=344 /></a>
